@@ -1,10 +1,13 @@
-# Page 1
+# 前言
 
-### 参考资料
+## 参考资料
 
-- https://github.com/apache/camel
-- https://camel.apache.org/manual/getting-started.html
-- https://github.com/Talend/apache-camel/tree/master/examples/camel-example-etl
-- 官方示例：https://people.apache.org/~dkulp/camel/etl-example.html
-- Stack Overflow问答：https://stackoverflow.com/questions/18789233/camel-vs-etl-tools
-- 《Camle in action 2》
+- 在线文档：https://camel.apache.org/manual/index.html
+- example学习：https://github.com/apache/camel-examples/tree/main/examples
+- 装B书籍：https://ia600909.us.archive.org/35/items/camel_in_action/camel_in_action.pdf
+- 源码学习：https://github.com/apache/camel
+
+
+
+
+
